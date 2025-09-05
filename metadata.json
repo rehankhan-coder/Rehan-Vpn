@@ -1,0 +1,5 @@
+{
+  "name": "His Rehan Vpn",
+  "description": "A web-based simulation of a VPN service called His Rehan Vpn. This application provides a user-friendly interface to simulate connecting to and disconnecting from various server locations, mimicking the core functionality of a mobile VPN app.",
+  "requestFramePermissions": []
+}
